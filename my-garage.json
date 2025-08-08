@@ -10,8 +10,8 @@
     "stato": "usato",
     "prezzo_acquisto": "2.500 €",
     "scadenza_revisione": "02/01/2011",
-    "scadenza_bollo": "02/01/2013",
-    "scadenza_assicurazione": "02/01/2012"
+    "scadenza_bollo": "02/01/2026",
+    "scadenza_assicurazione": "02/01/2026"
   },
   {
     "id": 2,
@@ -23,8 +23,8 @@
     "data_acquisto": "15/03/2019",
     "stato": "usato",
     "prezzo_acquisto": "6.200 €",
-    "scadenza_revisione": "15/03/2025",
-    "scadenza_bollo": "30/04/2025",
+    "scadenza_revisione": "15/09/2025",
+    "scadenza_bollo": "30/08/2025",
     "scadenza_assicurazione": "15/03/2026"
   },
   {
@@ -52,7 +52,7 @@
     "stato": "usato",
     "prezzo_acquisto": "11.800 €",
     "scadenza_revisione": "05/09/2026",
-    "scadenza_bollo": "31/08/2025",
+    "scadenza_bollo": "31/09/2025",
     "scadenza_assicurazione": "01/10/2025"
   },
   {
@@ -65,8 +65,8 @@
     "data_acquisto": "20/07/2021",
     "stato": "usato",
     "prezzo_acquisto": "6.800 €",
-    "scadenza_revisione": "20/07/2025",
-    "scadenza_bollo": "31/07/2025",
+    "scadenza_revisione": "20/07/2026",
+    "scadenza_bollo": "31/07/2026",
     "scadenza_assicurazione": "20/07/2026"
   },
   {
